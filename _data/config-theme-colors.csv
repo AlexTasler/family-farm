@@ -1,9 +1,9 @@
 color_class,color
-primary,#ff0000
+primary,#51624f
 secondary,#ffffff
-success,#99ccff
-info,#ff0000
-warning,#99ccff
-danger,#ff0000
-light,#99ccff
-dark,#ff0000
+success,#e6d5a9
+info,#afbea2
+warning,#9cb4ac
+danger,#8f8255
+light,#e4dfaf
+dark,#c3c29c
